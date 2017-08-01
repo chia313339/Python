@@ -6,5 +6,5 @@ http://terrence.logdown.com/posts/1240896-play-tensorflow-mnist-handwriting-reco
 
 http://www.jeyzhang.com/tensorflow-learning-notes-2.html
 
-
+https://read01.com/zh-tw/7Rx00O.html#.WYCTyoiGOUk
 
