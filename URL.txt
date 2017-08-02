@@ -8,3 +8,4 @@ http://www.jeyzhang.com/tensorflow-learning-notes-2.html
 
 https://read01.com/zh-tw/7Rx00O.html#.WYCTyoiGOUk
 
+https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/image_segmentation.html
